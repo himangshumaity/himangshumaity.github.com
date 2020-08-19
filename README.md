@@ -1,2 +1,2 @@
-# himangshumaity.github.com
-himangshumaity.github.com
+# himangshumaity.github.io
+himangshumaity.github.io
